@@ -1,1 +1,14 @@
-
+Our project is to create a Student Management System where an administrative person can see a 
+student's name, DOB, and tuition. They could also see teachers' names, the subject they teach, and their 
+yearly salary. The Administrative person can search for a specific student/teacher by using their name. 
+They can also add, delete, and edit students/teachers' profiles as they see fit. The class Admin_Directory
+is an array list that stores the students/teachers. The Student/Teacher class would contain strings, 
+The full_data base class would help users search for a specific person from the two classes. A user could 
+experience a possible scenario if a student calls an administrator and asks how much their tuition is for 
+the year. The administrator needs to get their name and type it into the program, and it would then 
+prompt up the student's information. Another scenario that could happen is that if a teacher believes 
+they deserve a raise, the teacher can negotiate with the administrator. The administrator can then go 
+into the teacher's profile and raise their yearly salary. Lastly, the administrator could delete the student 
+from the roster if a student decides to unenroll from the school. These scenarios are a few out of many 
+possible situations that could arise. Our project aims to make it easier to display, store, and edit 
+students/teachers’ information. 
