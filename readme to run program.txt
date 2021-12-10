@@ -13,3 +13,9 @@ then:
 java dashboard.java
 
 The application should run after following these steps. 
+
+----------------------------------------------------------
+
+If you have downloaded the .jar file then the program should execute directly.
+
+
