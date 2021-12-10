@@ -6,11 +6,10 @@ Then in your command prompt please direct yourself into the folder you saved it 
 
 Type the following:
 
-javac testerProgram.java
+javac dashboard.java
 
 then: 
 
-java testerProgram.java
+java dashboard.java
 
-Your code should run after following these steps.
-
+The application should run after following these steps. 
